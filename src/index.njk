@@ -1,0 +1,44 @@
+---
+title: Home
+layout: layouts/base.njk
+---
+
+<header class="bg-center flex justify-center items-center bg-cover bg-no-repeat text-white h-screen p-0 overflow-hidden
+    bg-black/75">
+  <video
+    class="absolute object-cover w-full h-full -z-50"
+    src="/img/video/1.mp4"
+    poster="/img/video/1.jpg"
+    autoplay=""
+    loop="infinite"></video>
+  <div class="container mx-auto text-center">
+    <div class="flex flex-wrap">
+      <div class="relative w-full h-full min-h-[1px] px-[15px] mx-auto self-center pt-10">
+        <div class="hidden md:inline-block">
+          <img
+            src="/img/logo.png"
+            alt="cit-logo"
+            height="225"
+            width="225"
+            style="-webkit-filter: drop-shadow(3px 3px 15px #232323); filter: drop-shadow(3px 3px 15px #232323);">
+        </div>
+        <h1 class=" font-medium text-[4rem]">Technical Clubs</h1>
+        <h3 class=" font-light text-4xl">Central Institute of Technology, Kokrajhar</h3>
+        <p class="text-xl mt-3 mb-16">Promoting Technology, Creativity and Innovation</p>
+      </div>
+      <div class="flex-0 max-w-full relative w-full h-full min-h-[1px] py-[15px] self-end justify-items-center text-center pb-36">
+        <a class="scroll-down-3 scroll-down-white" href="#aboutUs">
+          <span></span>
+          <span></span>
+          <span></span>
+        </a>
+      </div>
+    </div>
+  </div>
+</header>
+<div id="aboutUs" class=" px-40 py-20 bg-slate-300">
+  {% include "components/aboutus.njk" %}
+</div>
+<div id="aboutUs" class="  ">
+  {% include "components/team.njk" %}
+</div>

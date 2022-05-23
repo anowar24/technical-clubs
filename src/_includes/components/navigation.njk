@@ -1,0 +1,15 @@
+<nav class=" sticky top-0 z-20 flex items-center justify-between bg-slate-100 flex-wrap px-20 py-3">
+  <a href="/" class="flex items-center font-semibold text-xl tracking-tight">
+    <img src="/img/logo.png" class="w-10 h-10 mr-2 drop-shadow-2xl" alt="Logo">
+      Technical Clubs</a>
+    {% set navPages = collections.all | eleventyNavigation %}
+    <ul>
+      {% for entry in navPages %}
+        <li class="inline">
+          <a href="{{ entry.url }}" class="uppercase text-sm py-1 px-2 rounded mr-4 inline-block{{ 'bg-black text-red-600' if entry.url in page.url else 'text-gray-700 hover:text-gray-900' }}">
+            {{ entry.title }}
+          </a>
+        </li>
+      {% endfor %}
+    </ul>
+  </nav>
