@@ -1,0 +1,40 @@
+{
+    "clubs":[
+        {
+            "name": "DevComm",
+            "image": "https://cit.ac.in/uploads/club/images/1610610001.jpg",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nisl vel tincidunt luctus, nunc nisl aliquam massa, eget aliquam nisl nunc vel mauris. Sed euismod, nisl vel tincidunt luctus, nunc nisl aliquam massa, eget aliquam nisl nunc vel mauris.",
+            "link":"https://cit.ac.in/cse-club"
+        },
+        {
+            "name": "AI",
+            "image": "https://cit.ac.in/uploads/club/images/1610610001.jpg",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nisl vel tincidunt luctus, nunc nisl aliquam massa, eget aliquam nisl nunc vel mauris. Sed euismod, nisl vel tincidunt luctus, nunc nisl aliquam massa, eget aliquam nisl nunc vel mauris.",
+            "link":"https://cit.ac.in/ieee"
+        },
+        {
+            "name": "CyberXSecure",
+            "image": "https://cit.ac.in/uploads/club/images/1610610001.jpg",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nisl vel tincidunt luctus, nunc nisl aliquam massa, eget aliquam nisl nunc vel mauris. Sed euismod, nisl vel tincidunt luctus, nunc nisl aliquam massa, eget aliquam nisl nunc vel mauris.",
+            "link":"https://cit.ac.in/csi"
+        },
+        {
+            "name": "Coding",
+            "image": "https://cit.ac.in/uploads/club/images/1610610001.jpg",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nisl vel tincidunt luctus, nunc nisl aliquam massa, eget aliquam nisl nunc vel mauris. Sed euismod, nisl vel tincidunt luctus, nunc nisl aliquam massa, eget aliquam nisl nunc vel mauris.",
+            "link":"https://cit.ac.in/acm"
+        },
+        {
+            "name": "Design Circle",
+            "image": "https://cit.ac.in/uploads/club/images/1610610001.jpg",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nisl vel tincidunt luctus, nunc nisl aliquam massa, eget aliquam nisl nunc vel mauris. Sed euismod, nisl vel tincidunt luctus, nunc nisl aliquam massa, eget aliquam nisl nunc vel mauris.",
+            "link":"https://cit.ac.in/ieee"
+        },
+        {
+            "name": "Robotics",
+            "image": "https://cit.ac.in/uploads/club/images/1610610001.jpg",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nisl vel tincidunt luctus, nunc nisl aliquam massa, eget aliquam nisl nunc vel mauris. Sed euismod, nisl vel tincidunt luctus, nunc nisl aliquam massa, eget aliquam nisl nunc vel mauris.",
+            "link":"https://cit.ac.in/ieee"
+        }
+    ]
+}

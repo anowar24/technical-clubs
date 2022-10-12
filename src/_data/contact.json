@@ -21,7 +21,8 @@
         {
             "name": "Dr. Pranav Kumar Singh",
             "job": "Assistant Professor",
-            "image": "https://cit.ac.in/uploads/users/images/1565672925.jpg"
+            "image": "https://cit.ac.in/uploads/users/images/1565672925.jpg",
+            "link":"https://cit.ac.in/deparments/cse/faculty/pranav-kumar-singh"
 
         },
         {
@@ -32,9 +33,41 @@
         },
         {
             "name": "Swaubhik Chakraborty",
-            "job": "Developer",
+            "job": "Web Ops",
+            "image": "https://swaubhik.github.io/assets/img/profile-img.jpg"
+
+        },
+        {
+            "name": "Anowar Hussain Mondal",
+            "job": "Web Ops",
+            "image": "https://swaubhik.github.io/assets/img/profile-img.jpg"
+
+        },
+        {
+            "name": "Dr. Pranav Kumar Singh",
+            "job": "Assistant Professor",
+            "image": "https://cit.ac.in/uploads/users/images/1565672925.jpg",
+            "link":"https://cit.ac.in/deparments/cse/faculty/pranav-kumar-singh"
+
+        },
+        {
+            "name": "Panchanan Nath",
+            "job": "Convenor",
+            "image": "https://www.isacindia.org/wp-content/uploads/2021/04/Panchanan-Nath.png"
+
+        },
+        {
+            "name": "Swaubhik Chakraborty",
+            "job": "Web Ops",
+            "image": "https://swaubhik.github.io/assets/img/profile-img.jpg"
+
+        },
+        {
+            "name": "Anowar Hussain Mondal",
+            "job": "Web Ops",
             "image": "https://swaubhik.github.io/assets/img/profile-img.jpg"
 
         }
     ]
+    
 }

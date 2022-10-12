@@ -1,9 +1,9 @@
-<section class="text-gray-400 bg-gray-900 body-font">
+<section class="text-gray-900  body-font">
     <div class="container px-5 py-24 mx-auto">
         <div class="flex flex-col text-center w-full mb-20">
-            <h1 class="text-2xl font-medium title-font mb-4 text-white">OUR TEAM</h1>
-            <p class="lg:w-2/3 mx-auto leading-relaxed text-base">Whatever cardigan tote bag tumblr hexagon brooklyn asymmetrical
-                gentrify, subway tile poke farm-to-table. Franzen you probably haven't heard of them.</p>
+            <h1 class="text-6xl font-semibold title-font mb-4 text-blue-600">OUR TEAM</h1>
+            {# <p class="lg:w-2/3 mx-auto leading-relaxed text-base">Whatever cardigan tote bag tumblr hexagon brooklyn asymmetrical
+                gentrify, subway tile poke farm-to-table. Franzen you probably haven't heard of them.</p> #}
         </div>
         <div class="flex flex-wrap -m-4">
             {% for team in contact.teams %}
@@ -11,7 +11,7 @@
                     <div class="h-full flex flex-col items-center text-center">
                         <img alt="team" class="flex-shrink-0 rounded-lg w-full h-56 object-cover object-center mb-4" src="{{ team.image }}"/>
                         <div class="w-full">
-                            <h2 class="title-font font-medium text-lg text-white">{{ team.name }}</h2>
+                            <h2 class="title-font font-medium text-lg text-blue-600">{{ team.name }}</h2>
                             <h3 class="text-gray-500 mb-3">{{ team.job }}</h3>
                             <p class="mb-4">DIY tote bag drinking vinegar cronut adaptogen squid fanny pack vaporware.</p>
                             <span class="inline-flex">
